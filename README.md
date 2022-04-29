@@ -1,2 +1,2 @@
-# baekjoon_soulutions
+# baekjoon_solutions
 baekjoon solutions
