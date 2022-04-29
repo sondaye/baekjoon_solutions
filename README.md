@@ -1,2 +1,2 @@
-# baekjoon_practice
+# baekjoon_soulutions
 baekjoon solutions
