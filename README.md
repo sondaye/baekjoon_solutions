@@ -1,6 +1,4 @@
 # baekjoon_solutions
-baekjoon solutions
-
 단계별 문제풀이
 
 
